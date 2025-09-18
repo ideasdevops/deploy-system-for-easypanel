@@ -1,0 +1,56 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+*~
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos temporales
+tmp/
+temp/
+.tmp/
+
+# Logs
+*.log
+logs/
+
+# Archivos de configuración local
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Archivos de Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de testing
+.coverage
+.pytest_cache/
+.tox/
+
+# Archivos de documentación generados
+docs/_build/
+
+# Archivos de backup
+*.bak
+*.backup
