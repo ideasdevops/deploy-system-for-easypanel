@@ -1,6 +1,6 @@
 # 🚀 Deploy System for EasyPanel
 
-Sistema de deploy automático y reutilizable para EasyPanel, desarrollado por IdeasDevOps. Basado en la experiencia exitosa del proyecto `sendera-app.
+Sistema de deploy automático y reutilizable para EasyPanel, desarrollado por IdeasDevOps. Basado en la experiencia exitosa del proyecto "sendera-app".
 
 ## ✨ Características
 
