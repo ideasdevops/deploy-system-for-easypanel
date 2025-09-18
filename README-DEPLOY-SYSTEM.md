@@ -1,4 +1,4 @@
-# 🚀 Sistema de Deploy Automático - Taker SA
+# 🚀 Sistema de Deploy Automático - IdeasDevOps
 
 Sistema de deploy automatizado y reutilizable para EasyPanel, basado en la experiencia exitosa del proyecto `taker_sa_envio_masivo_whatsapp`.
 
