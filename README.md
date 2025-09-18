@@ -1,6 +1,6 @@
 # 🚀 Deploy System for EasyPanel
 
-Sistema de deploy automático y reutilizable para EasyPanel, desarrollado por IdeasDevOps. Basado en la experiencia exitosa del proyecto `taker_sa_envio_masivo_whatsapp`.
+Sistema de deploy automático y reutilizable para EasyPanel, desarrollado por IdeasDevOps. Basado en la experiencia exitosa del proyecto `sendera-app.
 
 ## ✨ Características
 
