@@ -1,8 +1,8 @@
 # ===============================================
 # TEMPLATE DOCKERFILE PARA EASYPANEL
 # ===============================================
-# Sistema de Deploy Automático - 
-# Basado en la experiencia exitosa de taker_sa_envio_masivo_whatsapp
+# Sistema de Deploy Automático - IdeasDevOps
+# Basado en la experiencia exitosa del proyecto  sendera APP
 # 
 # USO:
 # 1. Copia este archivo como Dockerfile.easypanel-optimized
